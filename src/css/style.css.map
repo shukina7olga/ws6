@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,OAAO,CAAC;EACJ,gBAAgB,EAAE,KAAK;CAAG",
+    "sources": [
+        "../sass/style.sass",
+        "../sass/templates/_header.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
